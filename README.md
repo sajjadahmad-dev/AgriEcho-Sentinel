@@ -1,5 +1,5 @@
-## AgriEcho Sentinel
-# AI Crop Disease Detection & Treatment Platform
+# AgriEcho Sentinel
+## AI Crop Disease Detection & Treatment Platform
 ![Home](./Home.png)
 
 ```markdown
