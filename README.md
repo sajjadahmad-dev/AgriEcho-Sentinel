@@ -1,3 +1,8 @@
+![Home](./Home.png)
+
+```markdown
+# AI Crop Disease Detection & Treatment Platform
+
 # AI Crop Disease Detection & Treatment Platform
 
 A comprehensive AI-powered platform for crop disease detection, weather-based risk assessment, and treatment strategy generation. Built with FastAPI backend and Next.js frontend, leveraging Google's Gemini AI models.
